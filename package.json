@@ -1,0 +1,11 @@
+{
+  "name": "family-tournament",
+  "version": "1.0.0",
+  "description": "بطولة العائلة — منصة مسابقات عائلية بالعربية",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/engine.test.js",
+    "test:e2e": "node tests/e2e.js"
+  }
+}
